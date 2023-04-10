@@ -10,7 +10,7 @@
     "build": "tsc",
     "dev": "concurrently \"nodemon\" \"nodemon -x tsoa spec\"",
     "swagger": "tsoa spec",
-    "test": "jest --silent --debug"
+    "test": "jest"
   },
   "nodemonConfig": {
     "watch": [

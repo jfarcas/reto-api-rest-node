@@ -85,3 +85,10 @@ docker-compose up
 
 This command will start the project
 Finally, navigate to http://localhost:8888 and you should see the project being served and rendered locally!
+
+## Testing
+
+``` bash
+npm run test 
+
+```
