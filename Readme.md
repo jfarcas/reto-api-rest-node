@@ -79,7 +79,7 @@ npm install
 ```
 - Build and run the project
 ``` bash
-docker compose build 
+docker-compose build 
 docker-compose up
 ```
 
